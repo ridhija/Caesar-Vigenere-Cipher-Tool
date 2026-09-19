@@ -2,6 +2,13 @@
 
 A Python-based classical cryptography analysis tool developed as a cybersecurity/cryptography project.
 
+## 🚀 Live Demo
+
+**Try the working application:**  
+https://caesar-vigenere-cipher-tool.streamlit.app/
+
+The live demo allows users to test the cipher operations directly in a web browser without installing the project locally.
+
 ## Features
 
 - Caesar Cipher encryption
@@ -30,7 +37,7 @@ Caesar-Vigenere-Cipher-Tool/
 └── README.md
 ```
 
-## How to Run
+## How to Run Locally
 
 1. Install Python 3.
 2. Open a terminal in the project folder.
@@ -55,11 +62,13 @@ http://localhost:8501
 ## Example Tests
 
 ### Caesar Cipher
+
 - Input: `HELLO WORLD`
 - Shift: `3`
 - Encrypted output: `KHOOR ZRUOG`
 
 ### Vigenère Cipher
+
 - Input: `HELLO WORLD`
 - Key: `KEY`
 - Encrypted output: `RIJVS UYVJN`
@@ -70,4 +79,4 @@ The project demonstrates the implementation and practical testing of classical s
 
 ## Author
 
-Ridhi Jain
+**Ridhi Jain**
